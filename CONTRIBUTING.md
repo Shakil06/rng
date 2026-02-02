@@ -82,7 +82,7 @@ We aim to review PRs within a week. Please be patient and responsive to feedback
 
 1. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rng.git
+   git clone https://github.com/Shakil06/rng.git
    cd rng
    ```
 
