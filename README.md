@@ -187,6 +187,8 @@ Contributions are welcome! Here's how you can help:
 
 ## 📝 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 This project is part of academic coursework (EEE458 - Group 27). Please refer to your institution's policies regarding code reuse and attribution.
 
 ## 👥 Authors
